@@ -1,0 +1,13 @@
+- Preliminaries: Introduction, A Crash Course in Python, Visualizing Data
+- Linear Algebra
+- Statistics
+- Probability
+- Hypothesis and Inference
+- Gradient Descent
+- Getting Data, Working with Data
+- **Machine Learning**:  k-Nearest Neighbors, Naive Bayes, Simple Linear Regression, Multiple Regression, Logistic Regression, Decision Trees, Clustering
+- Neural Networks
+- **Deep Learning**:  Natural Language Processing, Network Analysis
+- Databases and SQL
+- MapReduce
+- Data Ethics.
